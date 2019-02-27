@@ -122,6 +122,9 @@ h1 {
 	margin-right: 0;
 }
 
+.pl-skip{
+    text-transform: uppercase;
+}
 .mCSB_scrollTools {
 	right: 0;
 	width: 5px;
